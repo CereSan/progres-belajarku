@@ -20,3 +20,4 @@ Belajar Dasar Git dengan GitHub
 - Belajar melakuka commit pada branch baru
 - Belajar melakukan pull request
 - Belajar melakukan merge branch
+- Belajar resolve conflict
