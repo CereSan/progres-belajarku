@@ -14,3 +14,5 @@ Belajar kelas Back-End Expert
 Belajar Dasar Git dengan GitHub
 - Belajar tentang dasar - dasar git
 - Belajar dasar - dasar penggunaan github
+- Belajar membuat repository
+- Belajar melakukan commit
