@@ -21,3 +21,4 @@ Belajar Dasar Git dengan GitHub
 - Belajar melakukan pull request
 - Belajar melakukan merge branch
 - Belajar resolve conflict
+- Ikut boleh bang?
