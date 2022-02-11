@@ -16,3 +16,5 @@ Belajar Dasar Git dengan GitHub
 - Belajar dasar - dasar penggunaan github
 - Belajar membuat repository
 - Belajar melakukan commit
+- Belajar membuat branch
+- Belajar melakuka commit pada branch baru
